@@ -14,7 +14,7 @@ Gem::Specification.new do |spec|
     Primary State (high-level lifecycle) and Secondary Micro-State (small steps within primary state).
     Perfect for complex workflows that are too complex for flat state machines but don't need full orchestration.
   DESC
-  spec.homepage = "https://github.com/yourusername/hybrid-state-model"
+  spec.homepage = "https://github.com/afshmini/hybrid-state-model"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 2.7.0"
 
