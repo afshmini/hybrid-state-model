@@ -5,8 +5,8 @@ require_relative "lib/hybrid_state_model/version"
 Gem::Specification.new do |spec|
   spec.name = "hybrid-state-model"
   spec.version = HybridStateModel::VERSION
-  spec.authors = ["Your Name"]
-  spec.email = ["your.email@example.com"]
+  spec.authors = ["Afshmini"]
+  spec.email = ["afshmini@gmail.com"]
 
   spec.summary = "A two-layer hierarchical state system for Ruby models"
   spec.description = <<~DESC
